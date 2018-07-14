@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "491818896369",
+    "firebase_url": "https://ostrovuse2.firebaseio.com",
+    "project_id": "ostrovuse2",
+    "storage_bucket": "ostrovuse2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491818896369:android:fcad602ffae632ab",
+        "android_client_info": {
+          "package_name": "com.example.user.kotlinexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "491818896369-424n5hoqaofpsuql9ttjn1a3maj2bkl0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.kotlinexample",
+            "certificate_hash": "7c5bef0384592f961c1a02be66900f52f0e8aedf"
+          }
+        },
+        {
+          "client_id": "491818896369-6rt9c5sot50fod2rf9rr31mdt9vssqnm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvlUjVOSQA69LHs_EVFB_ZstIy12MDJbg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "491818896369-6rt9c5sot50fod2rf9rr31mdt9vssqnm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
